@@ -8,3 +8,5 @@ This started out as a quality-of-life project. Since I'm porting it to Rust, I f
 ## TODO
 
 - [ ] Create TODOs
+- [ ] Separate system and user application definitions
+- [ ] CI/CD to generate binaries
